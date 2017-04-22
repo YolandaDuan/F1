@@ -24,4 +24,4 @@ ionic serve
 
 ## SSH key
 The file location is `/Users/Lingyan/.ssh/id_rsa`     
-Passphrase: BytM1g!
+Passphrase: 打败我!
